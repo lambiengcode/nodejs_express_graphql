@@ -13,4 +13,4 @@ yarn start
 ```
 
 ### How I can test them?
-- :rocket: [Update later]()
+- :rocket: localhost:3000/graphql
